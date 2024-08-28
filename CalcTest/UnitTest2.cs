@@ -28,7 +28,7 @@ namespace CalcTest
             var expectedChange = null as Dictionary<int, int>;
 
             // Вызов функции
-            var actualChange = GetChange(cashRegister, changeAmount);
+            var actualChange = Program.GetChange(cashRegister, changeAmount);
 
             // Проверка результата
             Assert.AreEqual(expectedChange, actualChange);
