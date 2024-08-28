@@ -5,7 +5,7 @@ using System;
 namespace CalcTest
 {
     [TestClass]
-    public class UnitTest11
+    public class UnitTest1
     {
         [TestMethod]
         static void Test1()
