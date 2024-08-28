@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calc", "Calc\Calc.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcTest", "CalcTest\CalcTest.csproj", "{63CBA6E8-B95A-45F5-9ADF-063AB44A87F4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Новая папка1", "Новая папка1", "{396ED11E-D976-4EE4-AA20-9E5380135D4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
